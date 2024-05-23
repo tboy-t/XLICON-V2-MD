@@ -50,28 +50,28 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'ꪻ᥇ꪮꪗ™'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
+global.packname = 'ꪻ᥇ꪮꪗ™' 
+global.author = '@ꪻ᥇ꪮꪗ™' 
+global.menuvid = 'https://telegra.ph/file/6e662c041129d929c8928.mp4'
+global.igfg = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi' 
+global.dygp = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi'
+global.fgsc = 'https://github.com/tboy-t/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
-global.wait = '*🕣 _XLICON IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _ꪻ᥇ꪮꪗ™ IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.error = '☠️' 
+global.xmoji = '💀' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // maximum warnings
+global.maxwarn = '2' // maximum warnings
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
