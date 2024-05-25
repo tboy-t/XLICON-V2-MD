@@ -12,11 +12,12 @@ global.owner = [
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
   ['233533763772', 'Abraham Dwamena2', true],
   ['233508488192', 'Abraham Dwamena3', true]
+  ['2349045613439','Tboy™', true]
 ] //Number of owners
 
-global.mods = ['923184070915', '94789481495', '923184474176', '233531910067', '233508488192'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
+global.mods = ['923184070915', '94789481495', '923184474176', '233531910067', '233508488192', '2349045613439'] 
+global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192', '2349045613439']
+global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192', '2349045613439']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,9 +51,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ꪻ᥇ꪮꪗ™'
+global.botname = 'ꪻ᥇ꪮꪗ'
 global.premium = 'true'
-global.packname = 'ꪻ᥇ꪮꪗ™' 
+global.packname = 'ꪻ' 
 global.author = '@ꪻ᥇ꪮꪗ™' 
 global.menuvid = 'https://telegra.ph/file/6e662c041129d929c8928.mp4'
 global.igfg = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi' 
@@ -60,12 +61,12 @@ global.dygp = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi'
 global.fgsc = 'https://github.com/tboy-t/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
+global.fglog = 'TBOY.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 global.wait = '*🕣 _ꪻ᥇ꪮꪗ™ IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '😑'
 global.done = '✔️'
 global.error = '☠️' 
 global.xmoji = '💀' 
