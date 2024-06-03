@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ꪻ᥇ꪮꪗ'
+global.botname = 'ꪻ᥇ꪮꪗ™'
 global.premium = 'true'
 global.packname = 'ꪻ' 
-global.author = '@ꪻ᥇ꪮꪗ™' 
+global.author = 'ꪻ᥇ꪮꪗ' 
 global.menuvid = 'https://telegra.ph/file/765953d198510a7ada9c1.mp4'
 global.igfg = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi' 
 global.dygp = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi'
