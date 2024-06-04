@@ -52,9 +52,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ꪻ᥇ꪮꪗ™'
 global.premium = 'true'
-global.packname = 'ꪻ' 
-global.author = 'ꪻ᥇ꪮꪗ' 
-global.menuvid = 'https://telegra.ph/file/765953d198510a7ada9c1.mp4'
+global.packname = 'ꪻ᥇ꪮꪗ' 
+global.author = 'ꪻ᥇ꪮꪗ™' 
+global.menuvid = 'https://i.imgur.com/2fo1Djh.mp4'
 global.igfg = 'https://chat.whatsapp.com/E9gwnn6w48dKPLez1BBNt5' 
 global.dygp = 'https://chat.whatsapp.com/E9gwnn6w48dKPLez1BBNt5'
 global.fgsc = 'https://github.com/tboy-t/XLICON-V2-MD' 
