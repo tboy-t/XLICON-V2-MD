@@ -39,7 +39,7 @@ global.APIs = { // API Prefix
   bg: 'http://bochil.ddns.net',
   fgmods: 'https://api-fgmods.ddns.net'
 }
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "Xlicon_38ccc2df-c4f6-4cf6-9470-9b5ebf117967"
 global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
